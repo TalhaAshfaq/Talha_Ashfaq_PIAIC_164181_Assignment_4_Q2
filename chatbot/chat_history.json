@@ -1,0 +1,34 @@
+[
+    {
+        "role": "user",
+        "content": "hi my name is Talha"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi Talha, nice to meet you! How can I help you today?\n"
+    },
+    {
+        "role": "user",
+        "content": "can you tell me which international sports events are coming to Pakaistan in next few years?"
+    },
+    {
+        "role": "assistant",
+        "content": "Okay, let's see what international sports events are potentially coming to Pakistan in the next few years. It's always subject to change, but I can give you an overview of what's been discussed and planned.\n\n*   **ICC Champions Trophy 2025:** Pakistan is scheduled to host the ICC Champions Trophy in February 2025.\n\n**Things to Keep in Mind:**\n\n*   **Security Concerns:** Security is often a major factor in confirming international events in Pakistan. Ongoing assessments and assurances are crucial.\n*   **Government Support:** Government backing is essential for hosting major tournaments, including financial guarantees and logistical support.\n*   **Bidding Process:** For many events, Pakistan needs to go through a formal bidding process against other countries.\n\nTo stay completely up-to-date, I recommend regularly checking the websites of these organizations:\n\n*   **Pakistan Cricket Board (PCB):**\n*   **International Cricket Council (ICC):**\n\nI hope this helps! Let me know if you have any other questions.\n"
+    },
+    {
+        "role": "user",
+        "content": "can you tell me what is my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I can! Based on our previous interaction, your name is Talha.\n"
+    },
+    {
+        "role": "user",
+        "content": "can you tell me what was my second last question?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your second to last question was: \"can you tell me which international sports events are coming to Pakaistan in next few years?\"\n"
+    }
+]
